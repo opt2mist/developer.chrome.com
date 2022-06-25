@@ -1,5 +1,5 @@
 ---
-layout: "layouts/doc-post.njk"
+?layout: "layouts/doc-post.njk"
 title: "Run commands in the Command Menu"
 authors:
   - kaycebasques
